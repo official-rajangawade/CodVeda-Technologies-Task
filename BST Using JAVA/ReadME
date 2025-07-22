@@ -1,1 +1,19 @@
+this is Eclipse Project
 
+
+Enter Numbers One by One 
+
+For Examole - 
+Numbers - 10 , 50 , 15 , 80 , 1 , 66
+
+In-order Traversal:
+1 10 15 50 66 80 
+
+Pre-order Traversal:
+10 1 50 15 80 66 
+
+Post-order Traversal:
+1 15 66 80 50 10 
+
+
+try this 
